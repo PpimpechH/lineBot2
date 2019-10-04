@@ -25,11 +25,11 @@ def callback():
     #sendText(user,usertext)
    if (usertext== 'Hellooo') :
         sendText(user,'จ้าาาาา')
-    elif (userText == 'Ba bye') :
+   elif (userText == 'Ba bye') :
         sendText(user,'Byeee')
-    else :
+   else :
         sendText(user,'Yassss')
-    retuen '',200
+   retuen '',200
 
 
 
